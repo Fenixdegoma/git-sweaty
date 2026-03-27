@@ -1,0 +1,992 @@
+{
+  "activities": [
+    {
+      "date": "2011-01-24",
+      "hour": 18,
+      "name": "Hoole - Chester",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173766",
+      "year": 2011
+    },
+    {
+      "date": "2011-12-05",
+      "hour": 18,
+      "name": "Ellesmere Port",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173760",
+      "year": 2011
+    },
+    {
+      "date": "2011-12-06",
+      "hour": 18,
+      "name": "Ellesmere Port",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173757",
+      "year": 2011
+    },
+    {
+      "date": "2011-12-07",
+      "hour": 18,
+      "name": "Ellesmere Port",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173749",
+      "year": 2011
+    },
+    {
+      "date": "2011-12-11",
+      "hour": 9,
+      "name": "Chester - Hoole",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173738",
+      "year": 2011
+    },
+    {
+      "date": "2012-05-26",
+      "hour": 8,
+      "name": "Ellesmere Port - Stoke",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173739",
+      "year": 2012
+    },
+    {
+      "date": "2013-04-24",
+      "hour": 20,
+      "name": "Ellesmere Port",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173728",
+      "year": 2013
+    },
+    {
+      "date": "2014-11-25",
+      "hour": 15,
+      "name": "Elton - Ince",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173722",
+      "year": 2014
+    },
+    {
+      "date": "2014-11-26",
+      "hour": 17,
+      "name": "Elton - Ince",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173714",
+      "year": 2014
+    },
+    {
+      "date": "2014-12-02",
+      "hour": 18,
+      "name": "Elton",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173699",
+      "year": 2014
+    },
+    {
+      "date": "2014-12-02",
+      "hour": 18,
+      "name": "Elton",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173702",
+      "year": 2014
+    },
+    {
+      "date": "2014-12-03",
+      "hour": 18,
+      "name": "Elton - Ince",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173696",
+      "year": 2014
+    },
+    {
+      "date": "2014-12-04",
+      "hour": 18,
+      "name": "Elton - Ince",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173690",
+      "year": 2014
+    },
+    {
+      "date": "2014-12-05",
+      "hour": 19,
+      "name": "Elton - Ince",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173682",
+      "year": 2014
+    },
+    {
+      "date": "2014-12-07",
+      "hour": 10,
+      "name": "Chester - Hoole",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173679",
+      "year": 2014
+    },
+    {
+      "date": "2015-03-08",
+      "hour": 17,
+      "name": "Elton - Ellesmere Port",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173670",
+      "year": 2015
+    },
+    {
+      "date": "2015-03-10",
+      "hour": 19,
+      "name": "Elton - Ince",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173662",
+      "year": 2015
+    },
+    {
+      "date": "2015-03-15",
+      "hour": 9,
+      "name": "Chester - Shotwick",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270173661",
+      "year": 2015
+    },
+    {
+      "date": "2015-03-18",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/270221275",
+      "year": 2015
+    },
+    {
+      "date": "2015-05-12",
+      "hour": 16,
+      "name": "Elton - Ince",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/303086345",
+      "year": 2015
+    },
+    {
+      "date": "2020-12-30",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/4540892315",
+      "year": 2020
+    },
+    {
+      "date": "2020-12-31",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/4543890782",
+      "year": 2020
+    },
+    {
+      "date": "2020-12-31",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/4543998932",
+      "year": 2020
+    },
+    {
+      "date": "2021-01-14",
+      "hour": 11,
+      "name": "Lunch run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/4618460140",
+      "year": 2021
+    },
+    {
+      "date": "2021-01-26",
+      "hour": 18,
+      "name": "Evening run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/4685762184",
+      "year": 2021
+    },
+    {
+      "date": "2021-01-26",
+      "hour": 19,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/4686205432",
+      "year": 2021
+    },
+    {
+      "date": "2021-01-29",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/4698447112",
+      "year": 2021
+    },
+    {
+      "date": "2022-05-05",
+      "hour": 17,
+      "name": "Stanney woods",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/7093272706",
+      "year": 2022
+    },
+    {
+      "date": "2022-05-09",
+      "hour": 8,
+      "name": "Morning walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/7112115944",
+      "year": 2022
+    },
+    {
+      "date": "2022-05-10",
+      "hour": 8,
+      "name": "Morning walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/7117515380",
+      "year": 2022
+    },
+    {
+      "date": "2022-05-13",
+      "hour": 15,
+      "name": "Afternoon walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/7136110051",
+      "year": 2022
+    },
+    {
+      "date": "2022-12-05",
+      "hour": 18,
+      "name": "Wrestling Cardio Run 1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/8211536434",
+      "year": 2022
+    },
+    {
+      "date": "2022-12-07",
+      "hour": 18,
+      "name": "Wrestling Cardio Run 2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/8220257541",
+      "year": 2022
+    },
+    {
+      "date": "2023-03-29",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/8799374327",
+      "year": 2023
+    },
+    {
+      "date": "2026-02-18",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17636278011",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17636278002",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17636278025",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17636278045",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17636278041",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17636278066",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17651003163",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17687417860",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17719223958",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17730960385",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17758831292",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17770807260",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17803639744",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17815510993",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17837198278",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17842500685",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17857463114",
+      "year": 2026
+    }
+  ],
+  "aggregates": {
+    "2011": {
+      "Run": {
+        "2011-01-24": {
+          "activity_ids": [
+            "270173766"
+          ],
+          "count": 1,
+          "distance": 4419.1,
+          "elevation_gain": 21.3,
+          "moving_time": 1616.0
+        },
+        "2011-12-05": {
+          "activity_ids": [
+            "270173760"
+          ],
+          "count": 1,
+          "distance": 3853.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1173.0
+        },
+        "2011-12-06": {
+          "activity_ids": [
+            "270173757"
+          ],
+          "count": 1,
+          "distance": 3853.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1748.0
+        },
+        "2011-12-07": {
+          "activity_ids": [
+            "270173749"
+          ],
+          "count": 1,
+          "distance": 3815.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1126.0
+        },
+        "2011-12-11": {
+          "activity_ids": [
+            "270173738"
+          ],
+          "count": 1,
+          "distance": 2827.5,
+          "elevation_gain": 19.5,
+          "moving_time": 753.0
+        }
+      }
+    },
+    "2012": {
+      "Run": {
+        "2012-05-26": {
+          "activity_ids": [
+            "270173739"
+          ],
+          "count": 1,
+          "distance": 6321.9,
+          "elevation_gain": 10.1,
+          "moving_time": 2835.0
+        }
+      }
+    },
+    "2013": {
+      "Run": {
+        "2013-04-24": {
+          "activity_ids": [
+            "270173728"
+          ],
+          "count": 1,
+          "distance": 3401.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1488.0
+        }
+      }
+    },
+    "2014": {
+      "Run": {
+        "2014-11-25": {
+          "activity_ids": [
+            "270173722"
+          ],
+          "count": 1,
+          "distance": 4306.4,
+          "elevation_gain": 12.8,
+          "moving_time": 1394.0
+        },
+        "2014-11-26": {
+          "activity_ids": [
+            "270173714"
+          ],
+          "count": 1,
+          "distance": 4195.3,
+          "elevation_gain": 12.6,
+          "moving_time": 1386.0
+        },
+        "2014-12-02": {
+          "activity_ids": [
+            "270173699",
+            "270173702"
+          ],
+          "count": 2,
+          "distance": 4088.9,
+          "elevation_gain": 0.0,
+          "moving_time": 1404.0
+        },
+        "2014-12-03": {
+          "activity_ids": [
+            "270173696"
+          ],
+          "count": 1,
+          "distance": 5498.4,
+          "elevation_gain": 13.8,
+          "moving_time": 1845.0
+        },
+        "2014-12-04": {
+          "activity_ids": [
+            "270173690"
+          ],
+          "count": 1,
+          "distance": 5528.7,
+          "elevation_gain": 13.6,
+          "moving_time": 1779.0
+        },
+        "2014-12-05": {
+          "activity_ids": [
+            "270173682"
+          ],
+          "count": 1,
+          "distance": 4129.1,
+          "elevation_gain": 12.3,
+          "moving_time": 1346.0
+        },
+        "2014-12-07": {
+          "activity_ids": [
+            "270173679"
+          ],
+          "count": 1,
+          "distance": 3377.7,
+          "elevation_gain": 45.5,
+          "moving_time": 885.0
+        }
+      }
+    },
+    "2015": {
+      "Run": {
+        "2015-03-08": {
+          "activity_ids": [
+            "270173670"
+          ],
+          "count": 1,
+          "distance": 5610.7,
+          "elevation_gain": 21.5,
+          "moving_time": 2011.0
+        },
+        "2015-03-10": {
+          "activity_ids": [
+            "270173662"
+          ],
+          "count": 1,
+          "distance": 5620.5,
+          "elevation_gain": 13.5,
+          "moving_time": 2041.0
+        },
+        "2015-03-15": {
+          "activity_ids": [
+            "270173661"
+          ],
+          "count": 1,
+          "distance": 14798.3,
+          "elevation_gain": 45.4,
+          "moving_time": 4848.0
+        },
+        "2015-03-18": {
+          "activity_ids": [
+            "270221275"
+          ],
+          "count": 1,
+          "distance": 5690.3,
+          "elevation_gain": 13.8,
+          "moving_time": 1755.0
+        },
+        "2015-05-12": {
+          "activity_ids": [
+            "303086345"
+          ],
+          "count": 1,
+          "distance": 6699.6,
+          "elevation_gain": 13.7,
+          "moving_time": 2114.0
+        }
+      }
+    },
+    "2020": {
+      "Walk": {
+        "2020-12-30": {
+          "activity_ids": [
+            "4540892315"
+          ],
+          "count": 1,
+          "distance": 3690.1,
+          "elevation_gain": 7.6,
+          "moving_time": 2209.0
+        },
+        "2020-12-31": {
+          "activity_ids": [
+            "4543890782",
+            "4543998932"
+          ],
+          "count": 2,
+          "distance": 3043.7,
+          "elevation_gain": 3.6,
+          "moving_time": 1947.0
+        }
+      }
+    },
+    "2021": {
+      "Run": {
+        "2021-01-14": {
+          "activity_ids": [
+            "4618460140"
+          ],
+          "count": 1,
+          "distance": 4436.4,
+          "elevation_gain": 6.8,
+          "moving_time": 1637.0
+        },
+        "2021-01-26": {
+          "activity_ids": [
+            "4685762184"
+          ],
+          "count": 1,
+          "distance": 4441.5,
+          "elevation_gain": 6.8,
+          "moving_time": 1652.0
+        },
+        "2021-01-29": {
+          "activity_ids": [
+            "4698447112"
+          ],
+          "count": 1,
+          "distance": 3036.2,
+          "elevation_gain": 11.4,
+          "moving_time": 1033.0
+        }
+      },
+      "Walk": {
+        "2021-01-26": {
+          "activity_ids": [
+            "4686205432"
+          ],
+          "count": 1,
+          "distance": 3359.7,
+          "elevation_gain": 3.6,
+          "moving_time": 2522.0
+        }
+      }
+    },
+    "2022": {
+      "Run": {
+        "2022-12-05": {
+          "activity_ids": [
+            "8211536434"
+          ],
+          "count": 1,
+          "distance": 4454.5,
+          "elevation_gain": 6.8,
+          "moving_time": 1632.0
+        },
+        "2022-12-07": {
+          "activity_ids": [
+            "8220257541"
+          ],
+          "count": 1,
+          "distance": 4428.8,
+          "elevation_gain": 6.8,
+          "moving_time": 1526.0
+        }
+      },
+      "Walk": {
+        "2022-05-05": {
+          "activity_ids": [
+            "7093272706"
+          ],
+          "count": 1,
+          "distance": 5403.3,
+          "elevation_gain": 7.0,
+          "moving_time": 3957.0
+        },
+        "2022-05-09": {
+          "activity_ids": [
+            "7112115944"
+          ],
+          "count": 1,
+          "distance": 4557.0,
+          "elevation_gain": 6.9,
+          "moving_time": 2847.0
+        },
+        "2022-05-10": {
+          "activity_ids": [
+            "7117515380"
+          ],
+          "count": 1,
+          "distance": 4541.7,
+          "elevation_gain": 6.9,
+          "moving_time": 2717.0
+        },
+        "2022-05-13": {
+          "activity_ids": [
+            "7136110051"
+          ],
+          "count": 1,
+          "distance": 3601.4,
+          "elevation_gain": 4.1,
+          "moving_time": 3019.0
+        }
+      }
+    },
+    "2023": {
+      "Walk": {
+        "2023-03-29": {
+          "activity_ids": [
+            "8799374327"
+          ],
+          "count": 1,
+          "distance": 7740.6,
+          "elevation_gain": 267.6,
+          "moving_time": 5433.0
+        }
+      }
+    },
+    "2026": {
+      "Ride": {
+        "2026-02-18": {
+          "activity_ids": [
+            "17636278011"
+          ],
+          "count": 1,
+          "distance": 4421.7,
+          "elevation_gain": 6.9,
+          "moving_time": 704.0
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "17636278002"
+          ],
+          "count": 1,
+          "distance": 4403.6,
+          "elevation_gain": 6.8,
+          "moving_time": 679.0
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "17636278025"
+          ],
+          "count": 1,
+          "distance": 6680.4,
+          "elevation_gain": 17.0,
+          "moving_time": 1027.0
+        },
+        "2026-03-01": {
+          "activity_ids": [
+            "17636278045"
+          ],
+          "count": 1,
+          "distance": 9587.0,
+          "elevation_gain": 24.9,
+          "moving_time": 1509.0
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "17636278041"
+          ],
+          "count": 1,
+          "distance": 4214.2,
+          "elevation_gain": 82.9,
+          "moving_time": 981.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17636278066"
+          ],
+          "count": 1,
+          "distance": 9592.8,
+          "elevation_gain": 24.9,
+          "moving_time": 1473.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17651003163"
+          ],
+          "count": 1,
+          "distance": 9689.9,
+          "elevation_gain": 24.8,
+          "moving_time": 1473.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17687417860"
+          ],
+          "count": 1,
+          "distance": 11292.2,
+          "elevation_gain": 142.9,
+          "moving_time": 2230.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17719223958"
+          ],
+          "count": 1,
+          "distance": 9694.8,
+          "elevation_gain": 24.8,
+          "moving_time": 1478.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17730960385"
+          ],
+          "count": 1,
+          "distance": 9725.0,
+          "elevation_gain": 24.8,
+          "moving_time": 1509.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17758831292"
+          ],
+          "count": 1,
+          "distance": 9621.8,
+          "elevation_gain": 24.5,
+          "moving_time": 1442.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17770807260"
+          ],
+          "count": 1,
+          "distance": 9764.2,
+          "elevation_gain": 24.5,
+          "moving_time": 1395.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17803639744"
+          ],
+          "count": 1,
+          "distance": 12845.8,
+          "elevation_gain": 33.6,
+          "moving_time": 1948.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17815510993"
+          ],
+          "count": 1,
+          "distance": 12874.8,
+          "elevation_gain": 33.5,
+          "moving_time": 1909.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17837198278",
+            "17842500685"
+          ],
+          "count": 2,
+          "distance": 16569.5,
+          "elevation_gain": 80.30000000000001,
+          "moving_time": 2962.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17857463114"
+          ],
+          "count": 1,
+          "distance": 12877.1,
+          "elevation_gain": 33.5,
+          "moving_time": 2022.0
+        }
+      }
+    }
+  },
+  "generated_at": "2026-03-27T12:48:59.601737+00:00",
+  "other_bucket": "OtherSports",
+  "profile_url": "https://www.strava.com/athletes/8290638",
+  "repo": "Fenixdegoma/git-sweaty",
+  "source": "strava",
+  "strava_profile_url": "https://www.strava.com/athletes/8290638",
+  "type_meta": {
+    "Ride": {
+      "accent": "#05ffa1",
+      "label": "Ride"
+    },
+    "Run": {
+      "accent": "#01cdfe",
+      "label": "Run"
+    },
+    "Walk": {
+      "accent": "#d6ff6b",
+      "label": "Walk"
+    }
+  },
+  "types": [
+    "Ride",
+    "Run",
+    "Walk"
+  ],
+  "units": {
+    "distance": "km",
+    "elevation": "m"
+  },
+  "week_start": "sunday",
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ]
+}
